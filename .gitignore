@@ -1,0 +1,9 @@
+list
+main
+*.o
+*.out
+*.exe
+.settings
+.DS_Store
+.vscode/
+.idea/
