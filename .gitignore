@@ -1,0 +1,7 @@
+prog1
+prog2
+my3proc
+*.o
+*.out
+*.exe
+.DS_Store
